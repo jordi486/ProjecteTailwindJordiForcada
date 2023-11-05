@@ -576,6 +576,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"4M6V8":[function(require,module,exports) {
 
-},{}]},["beUwC","4M6V8"], "4M6V8", "parcelRequire5663")
+},{}]},["beUwC","4M6V8"], "4M6V8", "parcelRequire0885")
 
 //# sourceMappingURL=mp9-uf1-projectetailwind-jordi486.59712999.js.map
