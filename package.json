@@ -234,6 +234,7 @@
     "start": "parcel /src/index.html",
     "build": "parcel build /src/index.html",
     "dev": "parcel src/index.html"
+    "build": "command-to-build-your-project"
   },
   "author": "",
   "license": "ISC"
